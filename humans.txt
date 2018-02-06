@@ -3,12 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Faye Pecille	fpecille@ilshealth.com
 
 # THANKS
 
     <name>
-
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
